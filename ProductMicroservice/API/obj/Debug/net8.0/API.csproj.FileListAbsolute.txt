@@ -1,0 +1,99 @@
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\appsettings.json
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\API.staticwebassets.endpoints.json
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\API.exe
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\API.deps.json
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\API.runtimeconfig.json
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\API.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\API.pdb
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\Consul.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\Snappier.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\Application.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\Domain.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\Application.pdb
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\bin\Debug\net8.0\Domain.pdb
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\obj\Debug\net8.0\API.csproj.Up2Date
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\obj\Debug\net8.0\API.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\obj\Debug\net8.0\refint\API.dll
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\obj\Debug\net8.0\API.pdb
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+C:\Users\Imad.ETTAMEN\OneDrive - Akkodis\Bureau\ProductMicroservice\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\appsettings.json
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\API.exe
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\API.deps.json
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\API.runtimeconfig.json
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\API.dll
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\API.pdb
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\Consul.dll
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\DnsClient.dll
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\Snappier.dll
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\Application.dll
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\Domain.dll
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\Application.pdb
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\bin\Debug\net8.0\Domain.pdb
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\obj\Debug\net8.0\API.csproj.Up2Date
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\obj\Debug\net8.0\API.dll
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\obj\Debug\net8.0\refint\API.dll
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\obj\Debug\net8.0\API.pdb
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\obj\Debug\net8.0\ref\API.dll

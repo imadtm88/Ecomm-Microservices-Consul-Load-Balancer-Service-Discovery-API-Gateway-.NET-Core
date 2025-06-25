@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\ProductMicroservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94DFD826-6CA1-4C43-A5C1-4C556C3BB7FD}|API\\API.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\productmicroservice\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94DFD826-6CA1-4C43-A5C1-4C556C3BB7FD}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DFD826-6CA1-4C43-A5C1-4C556C3BB7FD}|API\\API.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\productmicroservice\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DFD826-6CA1-4C43-A5C1-4C556C3BB7FD}|API\\API.csproj|solutionrelative:api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AE59A8-927C-472A-8868-042E711D595C}|Infrastructure\\Infrastructure.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\productmicroservice\\infrastructure\\repositories\\mongoproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AE59A8-927C-472A-8868-042E711D595C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\mongoproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DFD826-6CA1-4C43-A5C1-4C556C3BB7FD}|API\\API.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\productmicroservice\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DFD826-6CA1-4C43-A5C1-4C556C3BB7FD}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1375169D-164C-464B-A800-D47CCB003117}|Application\\Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\productmicroservice\\application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1375169D-164C-464B-A800-D47CCB003117}|Application\\Application.csproj|solutionrelative:application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1375169D-164C-464B-A800-D47CCB003117}|Application\\Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\productmicroservice\\application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1375169D-164C-464B-A800-D47CCB003117}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1375169D-164C-464B-A800-D47CCB003117}|Application\\Application.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\productmicroservice\\application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1375169D-164C-464B-A800-D47CCB003117}|Application\\Application.csproj|solutionrelative:application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89F0CE6-F7E5-472C-B589-CCC148877DA1}|Domain\\Domain.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\productmicroservice\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89F0CE6-F7E5-472C-B589-CCC148877DA1}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\ProductMicroservice\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\ProductMicroservice\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-24T16:03:21.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\ProductMicroservice\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\ProductMicroservice\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:02:19.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\ProductMicroservice\\API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\ProductMicroservice\\API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:01:13.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MongoProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\ProductMicroservice\\Infrastructure\\Repositories\\MongoProductRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\MongoProductRepository.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\ProductMicroservice\\Infrastructure\\Repositories\\MongoProductRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\MongoProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T15:59:24.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\ProductMicroservice\\Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\ProductMicroservice\\Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T15:58:30.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\ProductMicroservice\\Application\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\ProductMicroservice\\Application\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T15:57:45.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\ProductMicroservice\\Application\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\ProductMicroservice\\Application\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T15:57:03.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\ProductMicroservice\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Imad.ETTAMEN\\OneDrive - Akkodis\\Bureau\\ProductMicroservice\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T15:54:42.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
