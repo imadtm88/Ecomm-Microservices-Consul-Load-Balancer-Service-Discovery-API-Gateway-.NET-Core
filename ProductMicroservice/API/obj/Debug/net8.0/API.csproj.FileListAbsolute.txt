@@ -97,3 +97,4 @@ C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery
 C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\obj\Debug\net8.0\API.pdb
 C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\API\obj\Debug\net8.0\API.sourcelink.json

@@ -28,3 +28,4 @@ C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery
 C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\Application\obj\Debug\net8.0\refint\Application.dll
 C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\Application\obj\Debug\net8.0\Application.pdb
 C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\dell\Desktop\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\ProductMicroservice\Application\obj\Debug\net8.0\Application.sourcelink.json
