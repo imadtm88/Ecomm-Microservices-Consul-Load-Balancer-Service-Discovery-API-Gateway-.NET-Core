@@ -3,48 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3A52612-510A-4297-BB4F-879827BA4082}|API\\API.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\orderservice\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E3A52612-510A-4297-BB4F-879827BA4082}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E3A52612-510A-4297-BB4F-879827BA4082}|API\\API.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\orderservice\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3A52612-510A-4297-BB4F-879827BA4082}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A52612-510A-4297-BB4F-879827BA4082}|API\\API.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\orderservice\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3A52612-510A-4297-BB4F-879827BA4082}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3A52612-510A-4297-BB4F-879827BA4082}|API\\API.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\orderservice\\api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3A52612-510A-4297-BB4F-879827BA4082}|API\\API.csproj|solutionrelative:api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC2ED836-E68F-42DE-A88B-1DDFA45D6FF6}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\orderservice\\infrastructure\\repositories\\sqlorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2ED836-E68F-42DE-A88B-1DDFA45D6FF6}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\sqlorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2ED836-E68F-42DE-A88B-1DDFA45D6FF6}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\orderservice\\infrastructure\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2ED836-E68F-42DE-A88B-1DDFA45D6FF6}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DC42AA17-7EB5-46D2-A662-7BDA78613FD3}|Application\\Application.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\orderservice\\application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC42AA17-7EB5-46D2-A662-7BDA78613FD3}|Application\\Application.csproj|solutionrelative:application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC42AA17-7EB5-46D2-A662-7BDA78613FD3}|Application\\Application.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\orderservice\\application\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC42AA17-7EB5-46D2-A662-7BDA78613FD3}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC2ED836-E68F-42DE-A88B-1DDFA45D6FF6}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\orderservice\\infrastructure\\repositories\\sqlorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2ED836-E68F-42DE-A88B-1DDFA45D6FF6}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\sqlorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC42AA17-7EB5-46D2-A662-7BDA78613FD3}|Application\\Application.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\orderservice\\application\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC42AA17-7EB5-46D2-A662-7BDA78613FD3}|Application\\Application.csproj|solutionrelative:application\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC42AA17-7EB5-46D2-A662-7BDA78613FD3}|Application\\Application.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\orderservice\\application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC42AA17-7EB5-46D2-A662-7BDA78613FD3}|Application\\Application.csproj|solutionrelative:application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7863746-F64F-431E-BA6E-79ED0D44BBC4}|Domain\\Domain.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\orderservice\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7863746-F64F-431E-BA6E-79ED0D44BBC4}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7863746-F64F-431E-BA6E-79ED0D44BBC4}|Domain\\Domain.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\orderservice\\domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7863746-F64F-431E-BA6E-79ED0D44BBC4}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7863746-F64F-431E-BA6E-79ED0D44BBC4}|Domain\\Domain.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\orderservice\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7863746-F64F-431E-BA6E-79ED0D44BBC4}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC42AA17-7EB5-46D2-A662-7BDA78613FD3}|Application\\Application.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\orderservice\\application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC42AA17-7EB5-46D2-A662-7BDA78613FD3}|Application\\Application.csproj|solutionrelative:application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC42AA17-7EB5-46D2-A662-7BDA78613FD3}|Application\\Application.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\orderservice\\application\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC42AA17-7EB5-46D2-A662-7BDA78613FD3}|Application\\Application.csproj|solutionrelative:application\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2ED836-E68F-42DE-A88B-1DDFA45D6FF6}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\orderservice\\infrastructure\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2ED836-E68F-42DE-A88B-1DDFA45D6FF6}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC42AA17-7EB5-46D2-A662-7BDA78613FD3}|Application\\Application.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\orderservice\\application\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC42AA17-7EB5-46D2-A662-7BDA78613FD3}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC2ED836-E68F-42DE-A88B-1DDFA45D6FF6}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\orderservice\\infrastructure\\migrations\\20250625153701_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,6 +62,116 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:20:12.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:30:17.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Domain\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:19:42.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SqlOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Infrastructure\\Repositories\\SqlOrderRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\SqlOrderRepository.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Infrastructure\\Repositories\\SqlOrderRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\SqlOrderRepository.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:21:53.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "Application\\Services\\OrderService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAD8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:26:28.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "API\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:30:26.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Application\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Application\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\OrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:23:22.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Application\\DTOs\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\OrderItemDto.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Application\\DTOs\\OrderItemDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\OrderItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:23:45.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T15:31:44.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
               "Title": "20250625153701_Init.cs",
               "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Infrastructure\\Migrations\\20250625153701_Init.cs",
@@ -74,56 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\API\\appsettings.json",
-              "RelativeDocumentMoniker": "API\\appsettings.json",
-              "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\API\\appsettings.json",
-              "RelativeToolTip": "API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-25T15:31:44.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\API\\Program.cs",
-              "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\API\\Program.cs",
-              "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAiwD8AAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T15:30:17.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\API\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\API\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "API\\Controllers\\OrdersController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAiwDEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T15:30:26.805Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Application\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\OrderService.cs",
-              "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Application\\Services\\OrderService.cs",
-              "RelativeToolTip": "Application\\Services\\OrderService.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAD8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T15:26:28.051Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Application\\Interfaces\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\IOrderRepository.cs",
@@ -135,43 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrderItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Application\\DTOs\\OrderItemDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\OrderItemDto.cs",
-              "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Application\\DTOs\\OrderItemDto.cs",
-              "RelativeToolTip": "Application\\DTOs\\OrderItemDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T15:23:45.588Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OrderDto.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Application\\DTOs\\OrderDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\OrderDto.cs",
-              "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Application\\DTOs\\OrderDto.cs",
-              "RelativeToolTip": "Application\\DTOs\\OrderDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T15:23:22.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SqlOrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Infrastructure\\Repositories\\SqlOrderRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\SqlOrderRepository.cs",
-              "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Infrastructure\\Repositories\\SqlOrderRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repositories\\SqlOrderRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T15:21:53.239Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "OrderDbContext.cs",
               "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Infrastructure\\Data\\OrderDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\OrderDbContext.cs",
@@ -180,30 +205,6 @@
               "ViewState": "AQIAAAEAAAAAAAAAAAAiwCIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T15:21:06.118Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Domain\\Entities\\OrderItem.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Domain\\Entities\\OrderItem.cs",
-              "RelativeToolTip": "Domain\\Entities\\OrderItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T15:20:12.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Domain\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Domain\\Entities\\Order.cs",
-              "RelativeToolTip": "Domain\\Entities\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T15:19:42.175Z"
             }
           ]
         }
