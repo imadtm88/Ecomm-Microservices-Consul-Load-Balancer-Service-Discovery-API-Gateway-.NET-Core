@@ -7,8 +7,28 @@
       "RelativeMoniker": "D:0:0:{94DFD826-6CA1-4C43-A5C1-4C556C3BB7FD}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{79AE59A8-927C-472A-8868-042E711D595C}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\productmicroservice\\infrastructure\\kafka\\kafkaconsumerhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AE59A8-927C-472A-8868-042E711D595C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\kafka\\kafkaconsumerhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1375169D-164C-464B-A800-D47CCB003117}|Application\\Application.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\productmicroservice\\application\\contracts\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1375169D-164C-464B-A800-D47CCB003117}|Application\\Application.csproj|solutionrelative:application\\contracts\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1375169D-164C-464B-A800-D47CCB003117}|Application\\Application.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\productmicroservice\\application\\contracts\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1375169D-164C-464B-A800-D47CCB003117}|Application\\Application.csproj|solutionrelative:application\\contracts\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{94DFD826-6CA1-4C43-A5C1-4C556C3BB7FD}|API\\API.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\productmicroservice\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{94DFD826-6CA1-4C43-A5C1-4C556C3BB7FD}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AE59A8-927C-472A-8868-042E711D595C}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\productmicroservice\\infrastructure\\kafka\\kafkasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AE59A8-927C-472A-8868-042E711D595C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\kafka\\kafkasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1375169D-164C-464B-A800-D47CCB003117}|Application\\Application.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\productmicroservice\\application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1375169D-164C-464B-A800-D47CCB003117}|Application\\Application.csproj|solutionrelative:application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79AE59A8-927C-472A-8868-042E711D595C}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\productmicroservice\\infrastructure\\repositories\\mongoproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{94DFD826-6CA1-4C43-A5C1-4C556C3BB7FD}|API\\API.csproj|solutionrelative:api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1375169D-164C-464B-A800-D47CCB003117}|Application\\Application.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\productmicroservice\\application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1375169D-164C-464B-A800-D47CCB003117}|Application\\Application.csproj|solutionrelative:application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1375169D-164C-464B-A800-D47CCB003117}|Application\\Application.csproj|c:\\users\\dell\\desktop\\ecomm-microservices-consul-load-balancer-service-discovery-api-gateway-.net-core-main\\productmicroservice\\application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1375169D-164C-464B-A800-D47CCB003117}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,11 +62,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\ProductMicroservice\\Application\\Contracts\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\ProductMicroservice\\Application\\Contracts\\OrderItem.cs",
+              "RelativeToolTip": "Application\\Contracts\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:41:09.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\ProductMicroservice\\Application\\Contracts\\OrderCreatedEvent.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\OrderCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\ProductMicroservice\\Application\\Contracts\\OrderCreatedEvent.cs",
+              "RelativeToolTip": "Application\\Contracts\\OrderCreatedEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:40:51.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KafkaConsumerHostedService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\ProductMicroservice\\Infrastructure\\Kafka\\KafkaConsumerHostedService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Kafka\\KafkaConsumerHostedService.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\ProductMicroservice\\Infrastructure\\Kafka\\KafkaConsumerHostedService.cs",
+              "RelativeToolTip": "Infrastructure\\Kafka\\KafkaConsumerHostedService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:33:49.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KafkaSettings.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\ProductMicroservice\\Infrastructure\\Kafka\\KafkaSettings.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Kafka\\KafkaSettings.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\ProductMicroservice\\Infrastructure\\Kafka\\KafkaSettings.cs",
+              "RelativeToolTip": "Infrastructure\\Kafka\\KafkaSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:33:10.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\ProductMicroservice\\API\\Dockerfile",
               "RelativeDocumentMoniker": "API\\Dockerfile",
@@ -58,7 +126,8 @@
               "RelativeToolTip": "API\\Dockerfile",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-28T13:41:16.362Z"
+              "WhenOpened": "2025-06-28T13:41:16.362Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -68,26 +137,27 @@
               "RelativeDocumentMoniker": "API\\Program.cs",
               "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\ProductMicroservice\\API\\Program.cs",
               "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAAADkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T16:02:19.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\ProductMicroservice\\API\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\ProductMicroservice\\API\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "API\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T16:01:13.958Z"
+              "WhenOpened": "2025-06-24T16:01:13.958Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "MongoProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\ProductMicroservice\\Infrastructure\\Repositories\\MongoProductRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\MongoProductRepository.cs",
@@ -95,7 +165,8 @@
               "RelativeToolTip": "Infrastructure\\Repositories\\MongoProductRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T15:59:24.978Z"
+              "WhenOpened": "2025-06-24T15:59:24.978Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -105,13 +176,14 @@
               "RelativeDocumentMoniker": "Application\\Services\\ProductService.cs",
               "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\ProductMicroservice\\Application\\Services\\ProductService.cs",
               "RelativeToolTip": "Application\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T15:58:30.647Z"
+              "WhenOpened": "2025-06-24T15:58:30.647Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\ProductMicroservice\\Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
@@ -119,44 +191,47 @@
               "RelativeToolTip": "Domain\\Entities\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T15:54:42.09Z"
+              "WhenOpened": "2025-06-24T15:54:42.09Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\ProductMicroservice\\API\\appsettings.json",
               "RelativeDocumentMoniker": "API\\appsettings.json",
               "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\ProductMicroservice\\API\\appsettings.json",
               "RelativeToolTip": "API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-24T16:03:21.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\ProductMicroservice\\Application\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\IProductRepository.cs",
               "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\ProductMicroservice\\Application\\Interfaces\\IProductRepository.cs",
               "RelativeToolTip": "Application\\Interfaces\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T15:57:45.707Z"
+              "WhenOpened": "2025-06-24T15:57:45.707Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\ProductMicroservice\\Application\\DTOs\\ProductDto.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\ProductDto.cs",
               "ToolTip": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\ProductMicroservice\\Application\\DTOs\\ProductDto.cs",
               "RelativeToolTip": "Application\\DTOs\\ProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T15:57:03.218Z"
+              "WhenOpened": "2025-06-24T15:57:03.218Z",
+              "EditorCaption": ""
             }
           ]
         }

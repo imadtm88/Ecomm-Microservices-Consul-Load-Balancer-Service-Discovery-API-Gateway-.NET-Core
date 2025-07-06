@@ -2,6 +2,7 @@ using Application.Interfaces;
 using Application.Services;
 using Infrastructure.Repositories;
 using Consul;
+using Infrastructure.Kafka;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +14,11 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<ProductService>();
 builder.Services.AddScoped<IProductRepository, MongoProductRepository>();
 builder.Services.AddHealthChecks(); // Health check pour Consul
+
+builder.Services.Configure<KafkaSettings>(builder.Configuration.GetSection("Kafka"));
+builder.Services.AddHostedService<KafkaConsumerHostedService>();
+
+
 
 var app = builder.Build();
 

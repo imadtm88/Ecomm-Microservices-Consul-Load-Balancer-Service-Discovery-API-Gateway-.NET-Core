@@ -2,6 +2,7 @@ using Application.Interfaces;
 using Application.Services;
 using Consul;
 using Infrastructure.Data;
+using Infrastructure.Kafka;
 using Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
 
@@ -23,6 +24,10 @@ builder.Services.AddControllers()
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddHealthChecks();
+
+builder.Services.Configure<KafkaSettings>(builder.Configuration.GetSection("Kafka"));
+builder.Services.AddSingleton<KafkaProducer>();
+
 
 var app = builder.Build();
 

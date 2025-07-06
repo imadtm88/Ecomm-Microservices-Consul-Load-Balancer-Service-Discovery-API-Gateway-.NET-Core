@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Y9vBQkIk/GOtkgkQJS1s04pqX9V8JnbNELQP0MxUB3ykjvxLupobCHGSeu8Xl9OB/Vm02bEOWdLDP7xHiQUVng==",
+  "dgSpecHash": "LGa/wtae790olhFk7iU1X72J5erDGvdRv80QV9A9jt14oa/SFnpawDEdix5s6Gh1RjAy5FpIKKthVDze/LOaGA==",
   "success": true,
   "projectFilePath": "C:\\Users\\dell\\Desktop\\Ecomm-Microservices-Consul-Load-Balancer-Service-Discovery-API-Gateway-.NET-Core-main\\OrderService\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dell\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\confluent.kafka\\2.11.0\\confluent.kafka.2.11.0.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\librdkafka.redist\\2.11.0\\librdkafka.redist.2.11.0.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0\\microsoft.codeanalysis.common.4.5.0.nupkg.sha512",
